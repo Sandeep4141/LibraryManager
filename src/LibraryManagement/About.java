@@ -9,7 +9,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author Albert
+ * @author Sandeep
  */
 public class About extends javax.swing.JFrame {
 
