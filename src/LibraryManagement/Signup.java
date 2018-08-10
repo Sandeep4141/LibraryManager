@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 import javax.swing.UIManager;
 /**
  *
- * @author Albert
+ * @author Sandeep
  */
 public class Signup extends javax.swing.JFrame {
 
