@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Albert
+ * @author Sandeep
  */
 public class javaConnector
 {
